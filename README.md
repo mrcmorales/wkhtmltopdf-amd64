@@ -24,7 +24,7 @@ Require the package for _i386_ with:
 
 And for _amd64_ with:
 
-    php composer.phar require h4cc/wkhtmltopdf-amd64 "0.12.4"
+    php composer.phar require h4cc/wkhtmltopdf-amd64 "0.12.6"
 
 The binary will then be located at:
 
